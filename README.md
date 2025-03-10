@@ -137,7 +137,7 @@ Detail-oriented researcher with a Ph.D. in Mathematics and background in Physics
 </li>
 
 <h3>Engineering Humans’ choices - NeuroBridges Summer Program	- 2019</h3>
-<li>I was interested in quantitative model to shape people's choices. I designed a binary task with 25% reward was given in such a way that oblivious human subjects picked our preferred choices. I acquired data from other attendees and did the analysis using Python. My reward schedule was able to engineer subjects' choices. We found that the first reward choice may shape subject's beliefs on "correct" choice.![image](https://github.com/user-attachments/assets/dce9bc22-06aa-466d-b1e3-0ba98ef6bfcf)
+<li>I was interested in quantitative model to shape people's choices. I designed a binary task with 25% reward was given in such a way that oblivious human subjects picked our preferred choices. I acquired data from other attendees and did the analysis using Python. My reward schedule was able to engineer subjects' choices. We found that the first reward choice may shape subject's beliefs on "correct" choice.
 </li>
 
 <h3>Intertrial correlations in sequential decision-making tasks - University of Houston	- 2017-2020</h3>
