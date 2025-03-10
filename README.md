@@ -51,11 +51,11 @@ Detail-oriented researcher with a Ph.D. in Mathematics and background in Physics
 <h2>Education</h2>
 
 <h3>Ph.D. in Mathematics - University of Houston - 2020</h3>
-<li><ins>Disertation</ins>: How Trial Correlations and Feedback Shape Sequential Decision-Making.</li>
+<li><ins>Dissertation</ins>: How Trial Correlations and Feedback Shape Sequential Decision-Making.</li>
 <li><ins>GPA</ins>: 3.844</li>
 
 <h3>B.S. in Mathematics & B.S. in Physics - University of Houston - 2015</h3>
-<li>Graduated first in Mathematics Department & graduated second in Physics Department. Summa Cum Laude.</li>
+<li>Graduated first in the Mathematics Department and second in the Physics Department. Summa Cum Laude.</li>
 <li><ins>GPA</ins>: 3.917</li>
 
 <h2>Publication</h2>
