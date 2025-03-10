@@ -117,7 +117,7 @@ Detail-oriented researcher with a Ph.D. in Mathematics and background in Physics
 </li>
 <li><a href="https://www.phys.lsu.edu/cuwip/research.html">Conference for Undergraduate Women in Physics</a>, January 2014, Louisiana State University.
 </li>
-<li><a href="https://uh-ir.tdl.org/server/api/core/bitstreams/35ff7f43-8632-41c7-8341-5d8a83b1cea8/content">Undergraduate Research Day</a>Undergraduate Research Day, October 2013, University of Houston.
+<li><a href="https://uh-ir.tdl.org/server/api/core/bitstreams/35ff7f43-8632-41c7-8341-5d8a83b1cea8/content">Undergraduate Research Day</a>, October 2013, University of Houston.
 </li>
 <li>American Vacuum Society Conference, August 2013, University of Texas at Dallas.
 </li>
