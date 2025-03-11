@@ -40,13 +40,13 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
   <span class="right" hspace=100>- 2017</span>
 </h3>
 <li>Funding for the project “Intertrial correlations in sequential decision-making tasks”.</li>
-<li>●	Developed a stochastic model of an ideal observer navigating a sequence of decision-making trials, where the correct choice alternates between trials. Analyzed scenarios both with and without feedback to understand behavioral and decision-making dynamics. <a href="https://doi.org/10.1016/j.jmp.2018.11.001">[PAPER]</a></li>
+<li>Developed a stochastic model of an ideal observer navigating a sequence of decision-making trials, where the correct choice alternates between trials. Analyzed scenarios both with and without feedback to understand behavioral and decision-making dynamics. <a href="https://doi.org/10.1016/j.jmp.2018.11.001">[PAPER]</a></li>
 
 <h3><span class="left"><a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a></span>
   <span class="right" hspace=100>- 2014</span>
 </h3>
-<li>●	Awarded for the project “Monte Carlo Simulations of Crystallization in Pentomino Fluids,” conducted under the Research Experiences for Undergraduates program at the Department of Materials Science, University of Texas at Dallas (2013).</li>
-<li>●	Designed and implemented Monte Carlo simulations to investigate the self-assembly of molecules adsorbed on surfaces - an essential process in advancing nanotechnology. 
+<li>Awarded for the project “Monte Carlo Simulations of Crystallization in Pentomino Fluids,” conducted under the Research Experiences for Undergraduates program at the Department of Materials Science, University of Texas at Dallas (2013).</li>
+<li>Designed and implemented Monte Carlo simulations to investigate the self-assembly of molecules adsorbed on surfaces - an essential process in advancing nanotechnology. 
  <a href="https://drive.google.com/file/d/1b2hSQn9VZh9Os-JxeiTPyDuocDGokBBk/view?usp=sharing">[POSTER]</a></li>
 
 <h2>Education</h2>
