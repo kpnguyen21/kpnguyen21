@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
-Detail-oriented researcher with a Ph.D. in Mathematics and background in Physics. National Science Foundation Graduate Research Fellow (2017) and Barry Goldwater Scholar (2014). Bringing expertise in MATLAB and Python, machine learning, time-series analysis, statistical analysis, and modeling. Seeking a Data Science/ Quantitative Research position.
+Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation in Physics. Recognized as a National Science Foundation Graduate Research Fellow (2017) and Barry Goldwater Scholar (2014). Offers extensive expertise in MATLAB and Python, with proficiency in machine learning, time-series analysis, statistical modeling, and data analysis. Seeking a challenging role in Data Science or Quantitative Research to apply advanced analytical skills and drive impactful insights.
 
 <h2>Skills & Certifications</h2>
 <li><ins>Programming Languages</ins>: MATLAB, Python, SQL (DDL & DML), LaTeX, Tableau, Linux/Unix, C</li>
