@@ -30,8 +30,8 @@ Detail-oriented researcher with a Ph.D. in Mathematics and background in Physics
 <li><ins>Quantitative</ins>: Probability & Statistics, Linear Algebra, Stochastic Modeling</li>
 <li><ins>Database Management System</ins>: phpMyAdmin, IBM Db2, Azure SQL Database</li>
 <li><ins>Cloud Computing Platform</ins>: IBM Cloud, Microsoft Azure, Amazon AWS</li>
-<li><ins>Soft Skills</ins>: Collaboration, Attention to detail, Critical Thinking, Presentation, Leadership</li>
-<li><ins>Certifications</ins>: The Erdős Institute and <a href="https://github.com/kpnguyen21/Coursera">Coursera Courses Certificates</a>
+<li><ins>Soft Skills</ins>: Collaboration, Attention to Detail, Critical Thinking, Presentation, Leadership</li>
+<li><ins>Certifications</ins>: <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Courses Certificates</a>
 
 
 <h2>Honors</h2>
