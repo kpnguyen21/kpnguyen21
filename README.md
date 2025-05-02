@@ -125,7 +125,9 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 
 <h2>Projects</h2>
 
-<h3>From Browsing to Buying: A Behavioral Study for Merci's</h3>
+<h3>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute - 2025</h3>
+
+<h3>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute - 2025</h3>
 <li>I assisted Merci's, a high-end online apparel store, tackle cart abandonment issues by conducting two rounds of user interviews in New York City, where most of its customers are based. The first round involved five groups of ten users selected through cluster random sampling. Sixteen users were then chosen through simple random sampling for the second round, where they answered six questions to identify checkout pain points. We distilled our findings into three user personas, capturing distinct characteristics and behaviors. We designed a wireframe using these personas to improve the app’s navigation and address customer frustrations. <a href="https://my.visme.co/view/dm4dgezk-merci-s-customer-persona">[PERSONA]</a>, <a href="https://my.visme.co/view/31xq411r-merci-revision#s1">[WIREFRAME]</a>
 </li>
 
