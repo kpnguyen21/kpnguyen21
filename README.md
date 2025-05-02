@@ -125,6 +125,10 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 
 <h2>Projects</h2>
 
+<h3>From Browsing to Buying: A Behavioral Study for Merci's</h3>
+<li>I assisted Merci's, a high-end online apparel store, tackle cart abandonment issues by conducting two rounds of user interviews in New York City, where most of its customers are based. The first round involved five groups of ten users selected through cluster random sampling. Sixteen users were then chosen through simple random sampling for the second round, where they answered six questions to identify checkout pain points. We distilled our findings into three user personas, capturing distinct characteristics and behaviors. We designed a wireframe using these personas to improve the app’s navigation and address customer frustrations. <a href="https://my.visme.co/view/dm4dgezk-merci-s-customer-persona">[PERSONA]</a>, <a href="https://my.visme.co/view/31xq411r-merci-revision#s1">[WIREFRAME]</a>
+</li>
+
 <h3>Nook Café's Transformation: Bridging Coffee Culture and Nightlife - The Erdős Institute - 2025</h3>
 <li>In this project, I analyzed market demand, market size, and competition for Nook Café, a coffee shop on the University of Houston campus, to assess whether extending evening hours to include alcoholic beverages would boost revenue. I examined student and faculty population trends from 2014 to 2024, considering factors such as race and sex to forecast potential customers for Nook Café over the next three years (2025–2027). These insights helped Nook Café determine the optimal proportion of alcoholic beverages—spirits, beer, and wine—to stock. While extending hours carried certain risks, my findings suggested that it would likely generate greater revenue over the next two years.   
 <a href="https://github.com/kpnguyen21/erdos-coffee-bar">[GIT]</a>, <a href="https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/proposal.pdf">[PROPOSAL]</a>, <a href="https://github.com/kpnguyen21/erdos-coffee-bar/blob/main/Executive_Summary.pdf">[EXECUTIVE SUMMARY]</a>
