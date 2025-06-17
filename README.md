@@ -80,22 +80,26 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 <h2>Work Experience</h2>
 <h3>Independent Scholar - 2022-Current</h3>
 <li>Pursued professional development by completing certifications in Data Structures, Quantitative Modeling, Cloud Computing, Big Data, UX Research, and Data Science through platforms like Coursera and The Erdős Institute Data Science Boot Camp.</li>
-<li>Conducted independent research on time-series imputation and stock trading decision forecasting, applying machine learning techniques (e.g., regression models, KNN, SVM) to real-world datasets from Yahoo Finance.</li>
-<li>Developed hands-on experience with Python, machine learning libraries (NumPy, Pandas, scikit-learn), and data analysis tools to solve complex data challenges.</li>
+<li>Led a team to investigate declining membership sign-ups for a make-up company despite stable retention. Conducted user surveys, revealing visibility issues with the "Join Now" button. Ran a 20-day A/B experiment and applied Mann-Whitney U test to 10,000 data points. Results showed p-values of 0.599 and 0.602 for conversion rate and revenue, indicating no significant impact.</li>
+<li>Led a team to reduce cart abandonment for a high-end online apparel store by conducting two rounds of user interviews in New York City. Applied cluster and simple random sampling, refining insights into three user personas. Designed a wireframe to enhance app navigation and resolve customer pain points.</li>
+<li>Led a team of four to analyze market demand, size, and competition for a campus coffee shop, assessing whether extending evening hours to include alcoholic beverages would increase revenue. While the research identified some risks, projections estimated a two-year revenue of approximately $481,572.</li>
+<li>Led a data science team of five, applying various machine learning models to forecast Ford’s trading decisions. I utilized Granger Causality to identify relevant stocks that could impact Ford’s closing values. Using optimized parameters, I conducted stock simulation and executed trades, achieving a prediction accuracy ranging from 78.9% to 86.6%.</li>
+<li>Collaborated on recovering missing values in stock time series. Using linear interpolation as the baseline, I applied machine learning models and compared their MSE ratios. Only forward backward ARIMA reached 1.09 and 1.35, performing slightly worse than linear interpolation, with no models surpassing the baseline.</li>
 <li>Volunteered at the Vietnamese Culture & Science Association to promote STEM education, organizing the Vietnamese Cultural Fest in 2023 and 2024, and fostering community engagement.</li>
 <li>Enhanced personal development by learning new languages and exploring hobbies such as gardening, demonstrating adaptability and continuous self-improvement.</li>
 
 <h3>Postdoctoral Scientist - German Primate Center - 2020-2022</h3>
 <li>Collaborated to design experiments for continuous decision-making processes in solo and dyadic settings.</li>
 <li>Analyzed 13 human subjects’ data and developed general formulae to convert experimental parameters (frame rates, difficulty levels, etc.) to model parameters (drift and diffusion constants).</li>
-<li>Implemented two-dimensional leaky integrator models/ ARMA models to forecast continuous decisions in solo/ social settings.</li>
-<li>Trained monkeys in target selection experiments.</li>
+<li>Developed two-dimensional leaky integrator and ARMA models to forecast continuous decisions in solo and social settings. Predicted reaction times ranging from 329 to 407 msec, with an information discount rate of 16 - 50.71/msec. For easier trials, accurately modeled responses per frame (8.333 msec), achieving an MSE of 0.19 - 0.46.</li>
+<li>Trained two monkeys in target selection experiments. After a year of training in collaboration, two monkeys were paired.</li>
 
 <h3>Graduate & Undergraduate Research Assistant & Teaching Assistant - University of Houston - 2013-2020</h3>
 <li>Developed statistical models for decision-making processes in changing environment with uncertain feedback. Project was funded by <b>NSF Graduate Research Fellowship</b> and presented at national and international conferences.
 </li>
 <li>Developed and analyzed mathematical models of spatial navigation in mammals in MATLAB (undergraduate project).</li>
-<li>Lectured in problem-solving sessions. Subjects taught included Calculus I & II, Differential Equations, and Vector Analysis.</li>
+<li>Proposed an interactive learning method as a Scholar Enrichment Program lead science mentor, which remains widely adopted. The SEP program reported continued improvements in student performance using this approach.
+</li>
 
 <h2>Conferences</h2>
 <h3>Oral Presentation</h3>
@@ -126,8 +130,7 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 <h2>Projects</h2>
 
 <h3>Addressing Membership Challenges: Insights and Strategies for Amour Beauty Box - The Erdős Institute - 2025</h3>
-<li>Amour Beauty Box, a subscription-based makeup store, experienced a decline in membership sign-ups despite minimal cancellations. To identify the cause, I surveyed users who visited the Amour Beauty Box website. Of the 312 respondents, many reported that the "Join Now" button on the homepage was difficult to spot. To test whether repositioning the button would improve conversion rates or revenue, I designed an A/B experiment. Over 20 days, 10,000 data points were collected and analyzed. Ultimately, both null hypotheses were rejected, indicating that the change did not significantly impact sign-ups or revenue. 
-<a href="https://www.erdosinstitute.org/certificates/spring-2025/ux-research-boot-camp/khanh-nguyen/968ce7b0-acfc-4bed-9bc4-b0e0701677f4">[LINK]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/">[GIT]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/blob/main/Proposal.pdf">[PROPOSAL]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/blob/main/Executive%20Summary.pdf">[EXECUTIVE SUMMARY]</a>
+<li>I investigated declining membership sign-ups for Amour Beauty Box despite minimal cancellations. Through a survey of 312 website visitors, I identified visibility issues with the "Join Now" button. To assess the impact of repositioning the button, I designed and conducted a 20-day A/B experiment, collecting and analyzing 10,000 data points. Using the Mann-Whitney U Test on non-normal data, I found p-values of 0.598 and 0.602 for conversion rate and revenue, respectively. The results confirmed that the change had no significant effect on sign-ups or revenue. <a href="https://www.erdosinstitute.org/certificates/spring-2025/ux-research-boot-camp/khanh-nguyen/968ce7b0-acfc-4bed-9bc4-b0e0701677f4">[LINK]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/">[GIT]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/blob/main/Proposal.pdf">[PROPOSAL]</a>, <a href="https://github.com/kpnguyen21/erdos-AB-testing/blob/main/Executive%20Summary.pdf">[EXECUTIVE SUMMARY]</a>
 </li>
 
 <h3>From Browsing to Buying: A Behavioral Study for Merci's - The Erdős Institute - 2025</h3>
@@ -145,7 +148,7 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 </li>
 
 <h3>Imputing missing data from stock time series - The Erdős Institute - 2024</h3>
-<li>My objective was to address missing data in stock time series. We obtained Apple’s 2023 data from Yahoo Finance and randomly removed data points. We experimented with various imputation methods, including, but not limited to, linear interpolation, KNN, linear regression, and VAR. Using Python, we determined that linear interpolation proved to be a robust choice for filling both small and large gaps in this specific time series. <a href="https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/khanh-nguyen">[LINK]</a>, <a href="https://github.com/bootstrapM/erdos-may-2024-imputing-data/">[GIT]</a>, <a href="https://www.erdosinstitute.org/_files/ugd/eda2b9_479d0ca1ce454cf3950447646f2e832a.pdf">[SLIDES]</a>
+<li>I addressed missing data in Apple’s 2023 stock time series from Yahoo Finance. Tested imputation methods, including linear interpolation as baseline model, KNN, linear regression, and VAR. I computed relative MSE against baseline model, finding forward-backward ARIMA performed best (relative MSE between 1.09 and 1.35), while VAR was the worst (relative MSE between 1.83 and 4.7). I concluded that linear interpolation remained the most effective method. <a href="https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/khanh-nguyen">[LINK]</a>, <a href="https://github.com/bootstrapM/erdos-may-2024-imputing-data/">[GIT]</a>, <a href="https://www.erdosinstitute.org/_files/ugd/eda2b9_479d0ca1ce454cf3950447646f2e832a.pdf">[SLIDES]</a>
 </li>
 
 <h3>Modeling the continuous-perceptual-report task - German Primate Center (DPZ) - 2020-2022</h3>
