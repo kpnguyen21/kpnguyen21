@@ -78,7 +78,7 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 <li>Organized the <a href="https://www.math.uh.edu/twims/">3rd Texas Women in Mathematics Symposium</a> – November 2018</li>
 
 <h2>Work Experience</h2>
-<h3>Independent Scholar - 2022-Current</h3>
+<h3>Independent Data Scientist - 2022-Current</h3>
 <li>Pursued professional development by completing certifications in Data Structures, Quantitative Modeling, Cloud Computing, Big Data, UX Research, and Data Science through platforms like Coursera and The Erdős Institute Data Science Boot Camp.</li>
 <li>Led a team to investigate declining membership sign-ups for a make-up company despite stable retention. Conducted user surveys, revealing visibility issues with the "Join Now" button. Ran a 20-day A/B experiment and applied Mann-Whitney U test to 10,000 data points. Results showed p-values of 0.599 and 0.602 for conversion rate and revenue, indicating no significant impact.</li>
 <li>Led a team to reduce cart abandonment for a high-end online apparel store by conducting two rounds of user interviews in New York City. Applied cluster and simple random sampling, refining insights into three user personas. Designed a wireframe to enhance app navigation and resolve customer pain points.</li>
