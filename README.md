@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
-Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation in Physics. Recognized as a National Science Foundation Graduate Research Fellow (2017) and Barry Goldwater Scholar (2014). Offers extensive expertise in MATLAB and Python, with proficiency in machine learning, time-series analysis, statistical modeling, and data analysis. Seeking a challenging role in Data Science or Quantitative Research to apply advanced analytical skills and drive impactful insights.
+Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and recognition as an NSF Graduate Research Fellow and Barry Goldwater Scholar. Experienced in building statistical and time series models, applying advanced techniques such as Granger causality, transfer entropy, regression, and optimization. Proficient in Python, SQL, and cloud platforms (AWS, Azure). Skilled at translating complex data into quantitative insights that inform strategy, drive innovation, and support investment and risk decisions. Proven ability to lead cross-functional teams and communicate technical results with clarity and impact.
 
 <h2>Skills & Certifications</h2>
 <li><ins>Programming Languages</ins>: MATLAB, Python, SQL (DDL & DML), LaTeX, Tableau, Linux/Unix, C</li>
@@ -33,6 +33,28 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 <li><ins>Soft Skills</ins>: Collaboration, Attention to Detail, Critical Thinking, Presentation, Leadership</li>
 <li><ins>Certifications</ins>: <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Courses Certificates</a>
 
+<h2>Work Experience</h2>
+<h3>Independent Data Scientist - 2022-Current</h3>
+<li>Pursued professional development by completing certifications in Data Structures, Quantitative Modeling, Cloud Computing, Big Data, UX Research, and Data Science through platforms like Coursera and The Erdős Institute Data Science Boot Camp.</li>
+<li>Headed a team to investigate declining membership sign-ups for a makeup company despite stable retention. Identified visibility issues with the "Join Now" button via user surveys. Ran a 20-day A/B test and applied the Mann-Whitney U test to 10,000 data points, yielding p-values of 0.599 (conversion) and 0.602 (revenue). Though not statistically significant, findings suggested external factors and guided a new strategic direction.</li>
+<li>Directed a team to address high cart abandonment rates at a high-end online apparel store by conducting two rounds of user interviews. Selected cluster and simple random sampling to develop three refined user personas. Designed a wireframe to enhance app navigation and address key customer pain points.</li>
+<li>Managed a team to assess market demand, size, and competition for a campus coffee shop, evaluating whether extended evening hours with alcoholic beverage offerings would increase revenue. Explored student and faculty data to estimate number of potential customers and beverage preferences over the next three years. Despite risks such as shifting consumer habits, projections estimated a two-year revenue of approximately $481,572.</li>
+<li>Formed and led a data science team to apply machine learning models for forecasting Ford’s trading decisions. Utilized Granger Causality to determine stocks influencing Ford’s closing values. Simulated trades with optimized parameters and backtested models, achieving a 28.9%–36.6% improvement in prediction accuracy.</li>
+<li>Collaborated on recovering missing values in stock time series. Using linear interpolation as the baseline, applied machine learning models and compared their MSE ratios. Only forward backward ARIMA reached 1.09 and 1.35, performing slightly worse than linear interpolation, with no models surpassing the baseline.</li>
+<li>Volunteered at the Vietnamese Culture & Science Association to promote STEM education, organizing the Vietnamese Cultural Fest in 2023 and 2024, and fostering community engagement.</li>
+<li>Enhanced personal development by learning new languages and exploring hobbies such as gardening, demonstrating adaptability and continuous self-improvement.</li>
+
+<h3>Postdoctoral Scientist - German Primate Center - 2020-2022</h3>
+<li>Teamed up with experimentalists to design experiments examining continuous decision-making in solo and social settings. An example of such a process was how drivers continuously monitor obstacles and surrounding vehicles to steer effectively.</li>
+<li>Derived formulae using probability theory to translate experimental parameters (e.g., frame rates, difficulty levels) into stochastic model parameters (drift and diffusion constants).</li>
+<li>Established two-dimensional leaky integrator (solo setting) and ARMA models (social setting) to forecast continuous decisions. Quantified information flow across subjects using transfer entropy. Optimized models to compute reaction times and information discount rates for 13 human subjects, predicting reaction times between 329 and 407 ms and discount rates ranging from 16 to 50.71 units of information/ms. For easier trials, accurately modeled responses at 8.333 ms/frame, achieving MSEs between 0.19 and 0.46.</li>
+<li>Successfully trained two monkeys in target selection experiments, teaching them to cooperate during the task to maximize rewards.</li>
+
+<h3>Graduate & Undergraduate Research Assistant & Teaching Assistant - University of Houston - 2013-2020</h3>
+<li>Organisms must continuously adapt to a changing world, influenced not only by natural cycles like temperature and seasons but also by subtler underlying factors that guide decision-making. Developed a more realistic stochastic model to capture these hidden dynamics - overlooked by previous computational models - and uncovered optimal reward-maximizing strategies for subjects. The project proposal earned the NSF Graduate Research Fellowship. Published and presented at both national and international conferences. </li>
+<li>Animals use multiple sensory channels to navigate their environment. Hypothesized that visual input provided feedback to enhance the robustness of positional memory. Analyzed a PDE model of neural activity representing spatial location, and implemented numerical simulations to assess the impact of noise on network memory. Results supported the hypothesis, demonstrating improved stability in spatial navigation.</li>
+<li>Proposed an interactive learning method as a Scholar Enrichment Program lead science mentor, which remains widely adopted. The SEP director reported continued improvements in student performance using this approach.
+</li>
 
 <h2>Honors</h2>
 
@@ -77,28 +99,6 @@ Detail-oriented researcher with a Ph.D. in Mathematics and a strong foundation i
 <li>Co-founder of AWM - UH Chapter.</li>
 <li>Organized the <a href="https://www.math.uh.edu/twims/">3rd Texas Women in Mathematics Symposium</a> – November 2018</li>
 
-<h2>Work Experience</h2>
-<h3>Independent Data Scientist - 2022-Current</h3>
-<li>Pursued professional development by completing certifications in Data Structures, Quantitative Modeling, Cloud Computing, Big Data, UX Research, and Data Science through platforms like Coursera and The Erdős Institute Data Science Boot Camp.</li>
-<li>Headed a team to investigate declining membership sign-ups for a makeup company despite stable retention. Identified visibility issues with the "Join Now" button via user surveys. Ran a 20-day A/B test and applied the Mann-Whitney U test to 10,000 data points, yielding p-values of 0.599 (conversion) and 0.602 (revenue). Though not statistically significant, findings suggested external factors and guided a new strategic direction.</li>
-<li>Directed a team to address high cart abandonment rates at a high-end online apparel store by conducting two rounds of user interviews. Selected cluster and simple random sampling to develop three refined user personas. Designed a wireframe to enhance app navigation and address key customer pain points.</li>
-<li>Managed a team to assess market demand, size, and competition for a campus coffee shop, evaluating whether extended evening hours with alcoholic beverage offerings would increase revenue. Explored student and faculty data to estimate number of potential customers and beverage preferences over the next three years. Despite risks such as shifting consumer habits, projections estimated a two-year revenue of approximately $481,572.</li>
-<li>Formed and led a data science team to apply machine learning models for forecasting Ford’s trading decisions. Utilized Granger Causality to determine stocks influencing Ford’s closing values. Simulated trades with optimized parameters and backtested models, achieving a 28.9%–36.6% improvement in prediction accuracy.</li>
-<li>Collaborated on recovering missing values in stock time series. Using linear interpolation as the baseline, applied machine learning models and compared their MSE ratios. Only forward backward ARIMA reached 1.09 and 1.35, performing slightly worse than linear interpolation, with no models surpassing the baseline.</li>
-<li>Volunteered at the Vietnamese Culture & Science Association to promote STEM education, organizing the Vietnamese Cultural Fest in 2023 and 2024, and fostering community engagement.</li>
-<li>Enhanced personal development by learning new languages and exploring hobbies such as gardening, demonstrating adaptability and continuous self-improvement.</li>
-
-<h3>Postdoctoral Scientist - German Primate Center - 2020-2022</h3>
-<li>Teamed up with experimentalists to design experiments examining continuous decision-making in solo and social settings. An example of such a process was how drivers continuously monitor obstacles and surrounding vehicles to steer effectively.</li>
-<li>Derived formulae using probability theory to translate experimental parameters (e.g., frame rates, difficulty levels) into stochastic model parameters (drift and diffusion constants).</li>
-<li>Established two-dimensional leaky integrator (solo setting) and ARMA models (social setting) to forecast continuous decisions. Quantified information flow across subjects using transfer entropy. Optimized models to compute reaction times and information discount rates for 13 human subjects, predicting reaction times between 329 and 407 ms and discount rates ranging from 16 to 50.71 units of information/ms. For easier trials, accurately modeled responses at 8.333 ms/frame, achieving MSEs between 0.19 and 0.46.</li>
-<li>Successfully trained two monkeys in target selection experiments, teaching them to cooperate during the task to maximize rewards.</li>
-
-<h3>Graduate & Undergraduate Research Assistant & Teaching Assistant - University of Houston - 2013-2020</h3>
-<li>Organisms must continuously adapt to a changing world, influenced not only by natural cycles like temperature and seasons but also by subtler underlying factors that guide decision-making. Developed a more realistic stochastic model to capture these hidden dynamics - overlooked by previous computational models - and uncovered optimal reward-maximizing strategies for subjects. The project proposal earned the NSF Graduate Research Fellowship. Published and presented at both national and international conferences. </li>
-<li>Animals use multiple sensory channels to navigate their environment. Hypothesized that visual input provided feedback to enhance the robustness of positional memory. Analyzed a PDE model of neural activity representing spatial location, and implemented numerical simulations to assess the impact of noise on network memory. Results supported the hypothesis, demonstrating improved stability in spatial navigation.</li>
-<li>Proposed an interactive learning method as a Scholar Enrichment Program lead science mentor, which remains widely adopted. The SEP director reported continued improvements in student performance using this approach.
-</li>
 
 <h2>Conferences</h2>
 <h3>Oral Presentation</h3>
