@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
-Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and recognition as an NSF Graduate Research Fellow and Barry Goldwater Scholar. Experienced in building statistical and time series models, applying advanced techniques such as Granger causality, transfer entropy, regression, and optimization. Proficient in Python, SQL, and cloud platforms (AWS, Azure). Skilled at translating complex data into quantitative insights that inform strategy, drive innovation, and support investment and risk decisions. Proven ability to lead cross-functional teams and communicate technical results with clarity and impact.
+Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and recognition as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Experienced in building statistical and time series models, applying advanced techniques such as Granger causality, transfer entropy, regression, and optimization. Proficient in Python, SQL, and cloud platforms (AWS, Azure). Skilled at translating complex data into quantitative insights that inform strategy, drive innovation, and support investment and risk decisions. Proven ability to lead cross-functional teams and communicate technical results with clarity and impact.
 
 <h2>Skills & Certifications</h2>
 <li><ins>Programming Languages</ins>: MATLAB, Python, SQL (DDL & DML), LaTeX, Tableau, Linux/Unix, C</li>
