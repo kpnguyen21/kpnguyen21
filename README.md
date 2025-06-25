@@ -34,7 +34,7 @@ Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and rec
 <li><ins>Certifications</ins>: <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Courses Certificates</a>
 
 <h2>Work Experience</h2>
-<h3>Independent Data Scientist - 2022-Current</h3>
+<h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
 <li>Pursued professional development by completing certifications in Data Structures, Quantitative Modeling, Cloud Computing, Big Data, UX Research, and Data Science through platforms like Coursera and The Erdős Institute Data Science Boot Camp.</li>
 <li>Headed a team to investigate declining membership sign-ups for a makeup company despite stable retention. Identified visibility issues with the "Join Now" button via user surveys. Ran a 20-day A/B test and applied the Mann-Whitney U test to 10,000 data points, yielding p-values of 0.599 (conversion) and 0.602 (revenue). Though not statistically significant, findings suggested external factors and guided a new strategic direction.</li>
 <li>Directed a team to address high cart abandonment rates at a high-end online apparel store by conducting two rounds of user interviews. Selected cluster and simple random sampling to develop three refined user personas. Designed a wireframe to enhance app navigation and address key customer pain points.</li>
