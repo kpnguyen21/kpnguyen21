@@ -32,6 +32,7 @@ Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and rec
 <li><ins>Cloud Computing Platform</ins>: IBM Cloud, Microsoft Azure, Amazon AWS</li>
 <li><ins>Soft Skills</ins>: Collaboration, Attention to Detail, Critical Thinking, Presentation, Leadership</li>
 <li><ins>Certifications</ins>: <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Courses Certificates</a>
+<li><ins>Projects</ins>: <a href="https://github.com/kpnguyen21/Projects">Project Portfolio with Descriptions & Links</a>
 
 <h2>Work Experience</h2>
 <h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
