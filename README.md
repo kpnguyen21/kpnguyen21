@@ -20,19 +20,17 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
-Detail-oriented Ph.D. in Mathematics with a strong foundation in Physics and recognition as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Experienced in building statistical and time series models, applying advanced techniques such as Granger causality, transfer entropy, regression, and optimization. Proficient in Python, SQL, and cloud platforms (AWS, Azure). Skilled at translating complex data into quantitative insights that inform strategy, drive innovation, and support investment and risk decisions. Proven ability to lead cross-functional teams and communicate technical results with clarity and impact.
+Independent Quantitative Analyst & Data Scientist with a Ph.D. in Mathematics and over 10 years of expertise in stochastic modeling and 3 years in ML-driven forecasting. Recognized as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Engineered a Granger-causality pipeline that improved equity-prediction accuracy by 36.6% and architected a dynamic SQL engine delivering 100% real-time customer-agent matching. Seeking Quantitative Analyst or Data Scientist roles to apply these skills and drive data-driven strategies and risk management.
 
 <h2>Skills & Certifications</h2>
-<li><ins>Programming Languages</ins>: MATLAB, Python, SQL (DDL & DML), LaTeX, Tableau, Linux/Unix, C</li>
-<li><ins>Computing Systems</ins>: Git, Anaconda, Hadoop, Spark</li>
-<li><ins>Python Libraries</ins>: NumPy, Pandas, scikit-learn, SciPy, matplotlib, seaborn</li>
-<li><ins>Machine Learning/ AI</ins>: Regressions, KNN, SVM, PCA, GLM, ARIMA, SARIMA, VAR, Random Forests, CoPilot</li>
-<li><ins>Quantitative</ins>: Probability & Statistics, Linear Algebra, Stochastic Modeling</li>
-<li><ins>Database Management System</ins>: phpMyAdmin, IBM Db2, Azure SQL Database</li>
-<li><ins>Cloud Computing Platform</ins>: IBM Cloud, Microsoft Azure, Amazon AWS</li>
-<li><ins>Soft Skills</ins>: Collaboration, Attention to Detail, Critical Thinking, Presentation, Leadership</li>
-<li><ins>Certifications</ins>: <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Courses Certificates</a>
-<li><ins>Projects</ins>: <a href="https://github.com/kpnguyen21/Projects">Project Portfolio with Descriptions & Links</a>
+<li><ins>Modeling & Analytics:</ins> SDE, Granger causality, time-series forecasting, regression, classification, PCA, SVM, KNN,  A/B testing</li> 
+<li><ins>Programming & Tools:</ins> Python (Pandas, NumPy, scikit-learn, SciPy), MATLAB, SQL (DDL & DML), Excel, CoPilot</li>
+<li><ins>Cloud & Data Engineering:</ins> AWS, Azure, IBM Cloud, Hadoop, Spark</li>
+<li><ins>Visualization & DevOps:</ins> Tableau, Matplotlib, Seaborn, Git</li>
+
+<h2>PORTFOLIO & CERTIFICATIONS</h2>
+<li><ins>Projects & Portfolio:</ins> <a href="https://github.com/kpnguyen21/Projects">Project Portfolio with Descriptions & Links</a></li>
+<li><ins>Certifications:</ins> <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Certificates</a></li>
 
 <h2>Work Experience</h2>
 <h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
