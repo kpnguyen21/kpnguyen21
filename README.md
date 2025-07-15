@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 Independent Quantitative Analyst & Data Scientist with a Ph.D. in Mathematics and over 10 years of expertise in stochastic modeling and 3 years in ML-driven forecasting. Recognized as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Engineered a Granger-causality pipeline that improved equity-prediction accuracy by 36.6% and architected a dynamic SQL engine delivering 100% real-time customer-agent matching. Seeking Quantitative Analyst or Data Scientist roles to apply these skills and drive data-driven strategies and risk management.
 
-<h2>Skills & Certifications</h2>
+<h2>Technical Skills</h2>
 <li><ins>Modeling & Analytics:</ins> SDE, Granger causality, time-series forecasting, regression, classification, PCA, SVM, KNN,  A/B testing</li> 
 <li><ins>Programming & Tools:</ins> Python (Pandas, NumPy, scikit-learn, SciPy), MATLAB, SQL (DDL & DML), Excel, CoPilot</li>
 <li><ins>Cloud & Data Engineering:</ins> AWS, Azure, IBM Cloud, Hadoop, Spark</li>
 <li><ins>Visualization & DevOps:</ins> Tableau, Matplotlib, Seaborn, Git</li>
 
-<h2>PORTFOLIO & CERTIFICATIONS</h2>
+<h2>Portfolio & Certifications</h2>
 <li><ins>Projects & Portfolio:</ins> <a href="https://github.com/kpnguyen21/Projects">Project Portfolio with Descriptions & Links</a></li>
 <li><ins>Certifications:</ins> <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Certificates</a></li>
 
