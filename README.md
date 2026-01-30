@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Independent Quantitative Analyst & Data Scientist with a Ph.D. in Mathematics and over 10 years of expertise in stochastic modeling and 3 years in ML-driven forecasting. Recognized as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Engineered a Granger-causality pipeline that improved equity-prediction accuracy by 36.6% and architected a dynamic SQL engine delivering 100% real-time customer-agent matching. Seeking Quantitative Analyst or Data Scientist roles to apply these skills and drive data-driven strategies and risk management.
 
+My interest in statistical modeling began in 2013 when I developed models of nanoparticle crystallization. Later that year, I applied Partial Differential Equation models to study how a rat navigates its position inside a maze. After graduating summa cum laude in Mathematics and Physics, I continued my education at the University of Houston, where I researched decision-making processes using Bayesian inference methods. In 2020, I joined the Cognitive Neuroscience Lab at the German Primate Center in Göttingen, Germany, where I worked on modeling continuous perceptual decisions in both solo and social settings. Since then, I have become interested in applying my skills and expertise to solve problems in industries because I find the faster pace rewarding, as it allows me to regularly see the results of my hard work. My experience with mathematical models would be highly valuable for data analysis and forecasting. I am currently seeking non-academic opportunities where I can apply my mathematical skills to develop real-world models and analyze real-world data.
+
 <h2>Technical Skills</h2>
 <li><ins>Modeling & Analytics:</ins> SDE, Granger causality, time-series forecasting, regression, classification, PCA, SVM, KNN,  A/B testing</li> 
 <li><ins>Programming & Tools:</ins> Python (Pandas, NumPy, scikit-learn, SciPy), MATLAB, SQL (DDL & DML), Excel, CoPilot</li>
@@ -34,6 +36,8 @@ Independent Quantitative Analyst & Data Scientist with a Ph.D. in Mathematics an
 
 <h2>Work Experience</h2>
 <h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
+<li>Analyzed 9.5M transactions and engineered 24 temporal & graph features with Polars. Built XGBoost (P 0.887, R 0.413) and Tabular Transformer (P 0.649, R 0.599) baselines, then deployed a Temporal GNN that achieved P 0.812, R 0.814, demonstrating superior AML layering‑stage detection.
+</li>
 <li>Built a dynamic SQL engine to assign customers to agents in real time, achieving 100% accurate assignments.</li>
 <li>Led a forecasting project on Ford equities using Granger Causality and Machine Learning, achieving a 36.6% boost in prediction accuracy and guiding simulated long-short strategies through historical backtesting.</li>
 <li>Benchmarked 3+ imputation methods (e.g. KNN, regression) on high-frequency equity data. Selected linear interpolation as production baseline based on MSE-trade-off.
