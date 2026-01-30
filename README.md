@@ -36,7 +36,8 @@ My interest in statistical modeling began in 2013 when I developed models of nan
 
 <h2>Work Experience</h2>
 <h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
-<li>Analyzed 9.5M transactions and engineered 24 temporal & graph features with Polars. Built XGBoost (P 0.887, R 0.413) and Tabular Transformer (P 0.649, R 0.599) baselines, then deployed a Temporal GNN that achieved P 0.812, R 0.814, demonstrating superior AML layering‑stage detection.
+<li>Facilitated hands-on labs and code reviews for cohorts of learners, teaching Python and machine learning workflows.</li>
+<li>Analyzed 9.5M transactions in a highly imbalanced dataset using Polars to detect money laundering. The baseline model (XGBoost) achieved high precision but low recall, while Tabular Transformer and Temporal Graph Neural Network improved recall by 51.1% and 96.9%, respectively. 
 </li>
 <li>Built a dynamic SQL engine to assign customers to agents in real time, achieving 100% accurate assignments.</li>
 <li>Led a forecasting project on Ford equities using Granger Causality and Machine Learning, achieving a 36.6% boost in prediction accuracy and guiding simulated long-short strategies through historical backtesting.</li>
