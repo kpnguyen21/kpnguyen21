@@ -20,9 +20,20 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 
+A detail‑oriented researcher with a Ph.D. in Mathematics and a strong foundation in Physics. I bring 10 years of MATLAB and 3 years of Python experience to data‑driven problems and specialize in statistical modeling, time‑series analysis, and machine learning.
+
+Recognized as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow (2017)</a> and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar (2014)</a>, my work ranges from PDE and Bayesian modeling to applied machine learning and reproducible, production‑oriented workflows. I prioritize rigorous feature engineering, robust model validation, and end‑to‑end pipelines that translate mathematical insight into actionable results.
+
+After returning from Germany, I focused on transitioning to industry through intensive bootcamps, online courses, and collaborative projects. I completed hands‑on training in Python, ML algorithms, and data engineering, and led independent capstone work—including an AML project analyzing 9.5M transactions with engineered temporal and graph features that earned Top Project recognition. These experiences strengthened my ability to deliver production‑ready analytics through reproducible workflows, backtesting, and rigorous validation.
+
+While deepening my technical skills, I also stayed engaged with my community: I volunteer to promote STEM within the Vietnamese community, which keeps me practiced in communication and organization. I'm now actively seeking non‑academic roles where I can apply mathematical modeling and rigorous data analysis to build real‑world solutions and deliver measurable impact.
+
+<!--
+
 Independent Quantitative Analyst & Data Scientist with a Ph.D. in Mathematics and over 10 years of expertise in stochastic modeling and 3 years in ML-driven forecasting. Recognized as an <a href="https://uh.edu/nsm/math/graduate/student-accomplishments/profiles/khanh-nguyen/">NSF Graduate Research Fellow</a> (2017) and <a href="https://uh.edu/news-events/stories/2014/April/042114Goldwater">Barry Goldwater Scholar</a> (2014). Engineered a Granger-causality pipeline that improved equity-prediction accuracy by 36.6% and architected a dynamic SQL engine delivering 100% real-time customer-agent matching. Seeking Quantitative Analyst or Data Scientist roles to apply these skills and drive data-driven strategies and risk management.
 
 My interest in statistical modeling began in 2013 when I developed models of nanoparticle crystallization. Later that year, I applied Partial Differential Equation models to study how a rat navigates its position inside a maze. After graduating summa cum laude in Mathematics and Physics, I continued my education at the University of Houston, where I researched decision-making processes using Bayesian inference methods. In 2020, I joined the Cognitive Neuroscience Lab at the German Primate Center in Göttingen, Germany, where I worked on modeling continuous perceptual decisions in both solo and social settings. Since then, I have become interested in applying my skills and expertise to solve problems in industries because I find the faster pace rewarding, as it allows me to regularly see the results of my hard work. My experience with mathematical models would be highly valuable for data analysis and forecasting. I am currently seeking non-academic opportunities where I can apply my mathematical skills to develop real-world models and analyze real-world data.
+-->
 
 <h2>Technical Skills</h2>
 <li><ins>Modeling & Analytics:</ins> SDE, Granger causality, time-series forecasting, regression, classification, PCA, SVM, KNN,  A/B testing</li> 
@@ -35,7 +46,7 @@ My interest in statistical modeling began in 2013 when I developed models of nan
 <li><ins>Certifications:</ins> <a href="https://github.com/kpnguyen21/Certificates">The Erdős Institute and Coursera Certificates</a></li>
 
 <h2>Work Experience</h2>
-<h3>Independent Data Scientist/ Quantitative Analyst - 2022-Current</h3>
+<h3>Independent Researcher - 2022-Current</h3>
 <li>Facilitated hands-on labs and code reviews for cohorts of learners, teaching Python and machine learning workflows.</li>
 <li>Analyzed 9.5M transactions in a highly imbalanced dataset using Polars to detect money laundering. The baseline model (XGBoost) achieved high precision but low recall, while Tabular Transformer and Temporal Graph Neural Network improved recall by 51.1% and 96.9%, respectively. 
 </li>
